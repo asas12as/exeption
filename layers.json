@@ -1,0 +1,841 @@
+[
+    {
+        "dir": "./images/Male_Bodies",
+        "name": "Male_Bodies",
+        "id": 1,
+        "images": [
+            {
+                "image": "Alien Boy B Arms.png",
+                "count": 19
+            },
+            {
+                "image": "Ebony Male B Legs.png",
+                "count": 38
+            },
+            {
+                "image": "Ivory Male B Legs.png",
+                "count": 38
+            },
+            {
+                "image": "Umber Male B Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Beige Male B Legs.png",
+                "count": 38
+            },
+            {
+                "image": "Bronze Male B Legs.png",
+                "count": 38
+            },
+            {
+                "image": "Alien Boy B Legs.png",
+                "count": 19
+            },
+            {
+                "image": "Alien Boy L Arm L Leg.png",
+                "count": 19
+            },
+            {
+                "image": "Alien Boy L Arm R R Leg.png",
+                "count": 19
+            },
+            {
+                "image": "Alien Boy L Arm.png",
+                "count": 19
+            },
+            {
+                "image": "Alien Boy L Leg.png",
+                "count": 19
+            },
+            {
+                "image": "Alien Boy R Arm L Leg.png",
+                "count": 65
+            },
+            {
+                "image": "Alien Boy R Arm R Leg.png",
+                "count": 65
+            },
+            {
+                "image": "Alien Boy R Leg.png",
+                "count": 66
+            },
+            {
+                "image": "Alien Boy R.png",
+                "count": 65
+            },
+            {
+                "image": "Beige Male B Arms.png",
+                "count": 38
+            },
+            {
+                "image": "Beige Male L Arm L Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Beige Male L Arm R Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Beige Male L Arm.png",
+                "count": 38
+            },
+            {
+                "image": "Beige Male L Leg.png",
+                "count": 37
+            },
+            {
+                "image": "Beige Male R Arm L Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Beige Male R Arm R Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Beige Male R Arm.png",
+                "count": 112
+            },
+            {
+                "image": "Beige Male R Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Bronze Male B Arms.png",
+                "count": 38
+            },
+            {
+                "image": "Bronze Male L Arm L Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Bronze Male L Arm R Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Bronze Male L Arm.png",
+                "count": 38
+            },
+            {
+                "image": "Bronze Male L Leg.png",
+                "count": 37
+            },
+            {
+                "image": "Bronze Male R Arm L Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Bronze Male R Arm R Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Bronze Male R Arm.png",
+                "count": 112
+            },
+            {
+                "image": "Bronze Male R Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Ebony Male B Arms.png",
+                "count": 38
+            },
+            {
+                "image": "Ebony Male L Arm L Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Ebony Male L Arm R Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Ebony Male L Arm.png",
+                "count": 38
+            },
+            {
+                "image": "Ebony Male L Leg.png",
+                "count": 37
+            },
+            {
+                "image": "Ebony Male R Arm L Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Ebony Male R Arm R Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Ebony Male R Arm.png",
+                "count": 112
+            },
+            {
+                "image": "Ebony Male R Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Ivory Male B Arms.png",
+                "count": 38
+            },
+            {
+                "image": "Ivory Male L Arm L Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Ivory Male L Arm R Arm.png",
+                "count": 38
+            },
+            {
+                "image": "Ivory Male L Arm.png",
+                "count": 38
+            },
+            {
+                "image": "Ivory Male L Leg.png",
+                "count": 37
+            },
+            {
+                "image": "Ivory Male R Arm L Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Ivory Male R Arm R Legs .png",
+                "count": 112
+            },
+            {
+                "image": "Ivory Male R Arm.png",
+                "count": 112
+            },
+            {
+                "image": "Ivory Male R Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Umber Male B Arms.png",
+                "count": 38
+            },
+            {
+                "image": "Umber Male L Arm L Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Umber Male L Arm R Leg.png",
+                "count": 38
+            },
+            {
+                "image": "Umber Male L Arm.png",
+                "count": 38
+            },
+            {
+                "image": "Umber Male L Leg.png",
+                "count": 37
+            },
+            {
+                "image": "Umber Male R Arm L Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Umber Male R Arm.png",
+                "count": 112
+            },
+            {
+                "image": "Umber Male R Arms R Leg.png",
+                "count": 112
+            },
+            {
+                "image": "Umber Male R Leg.png",
+                "count": 112
+            }
+        ]
+    },
+    {
+        "dir": "./images/Backgrounds",
+        "name": "Backgrounds",
+        "id": 0,
+        "images": [
+            {
+                "image": "Black.png",
+                "count": 375
+            },
+            {
+                "image": "Blue.png",
+                "count": 750
+            },
+            {
+                "image": "Green.png",
+                "count": 750
+            },
+            {
+                "image": "Grey.png",
+                "count": 375
+            },
+            {
+                "image": "Pink.png",
+                "count": 750
+            },
+            {
+                "image": "Purple.png",
+                "count": 750
+            }
+        ]
+    },
+    {
+        "dir": "./images/Bottoms",
+        "name": "Bottoms",
+        "id": 7,
+        "images": [
+            {
+                "image": "Cargos Black.png",
+                "count": 112
+            },
+            {
+                "image": "Cargos Green.png",
+                "count": 75
+            },
+            {
+                "image": "Cargos Purple.png",
+                "count": 75
+            },
+            {
+                "image": "Chinos Black.png",
+                "count": 187
+            },
+            {
+                "image": "Chinos Blue.png",
+                "count": 187
+            },
+            {
+                "image": "Chinos Brown.png",
+                "count": 187
+            },
+            {
+                "image": "Chinos Purple.png",
+                "count": 187
+            },
+            {
+                "image": "Jean Shorts Blue.png",
+                "count": 225
+            },
+            {
+                "image": "Jean Shorts Grey.png",
+                "count": 225
+            },
+            {
+                "image": "Jean Shorts Tan.png",
+                "count": 225
+            },
+            {
+                "image": "Jeans Blue Left Leg.png",
+                "count": 187
+            },
+            {
+                "image": "Jeans Blue Right Leg.png",
+                "count": 187
+            },
+            {
+                "image": "Jeans Grey Left Leg.png",
+                "count": 187
+            },
+            {
+                "image": "Jeans Grey Right Leg.png",
+                "count": 187
+            },
+            {
+                "image": "Jeans Tan Left Leg.png",
+                "count": 187
+            },
+            {
+                "image": "Jeans Tan Right Leg.png",
+                "count": 187
+            },
+            {
+                "image": "Pirate Pants.png",
+                "count": 115
+            },
+            {
+                "image": "Shorts Black .png",
+                "count": 228
+            },
+            {
+                "image": "Sweatpants Grey.png",
+                "count": 225
+            },
+            {
+                "image": "Sweatpants Purple.png",
+                "count": 225
+            },
+            {
+                "image": "Sweatpants Yellow.png",
+                "count": 150
+            }
+        ]
+    },
+    {
+        "dir": "./images/Head",
+        "name": "Head",
+        "id": 4,
+        "images": [
+            {
+                "image": "Balaclava .png",
+                "count": 187
+            },
+            {
+                "image": "Bandana .png",
+                "count": 187
+            },
+            {
+                "image": "Cyclops.png",
+                "count": 187
+            },
+            {
+                "image": "Halo.png",
+                "count": 187
+            },
+            {
+                "image": "Hard Hat .png",
+                "count": 187
+            },
+            {
+                "image": "Peace Chain.png",
+                "count": 190
+            },
+            {
+                "image": "blank.png",
+                "count": 2625
+            }
+        ]
+    },
+    {
+        "dir": "./images/Male_Faces",
+        "name": "Male_Faces",
+        "id": 2,
+        "images": [
+            {
+                "image": "Anime Face Beige.png",
+                "count": 271
+            },
+            {
+                "image": "Anime Face Ivory.png",
+                "count": 271
+            },
+            {
+                "image": "Calm Face Beige.png",
+                "count": 271
+            },
+            {
+                "image": "Calm Face Bronze.png",
+                "count": 200
+            },
+            {
+                "image": "Calm Face Ebony .png",
+                "count": 243
+            },
+            {
+                "image": "Calm Face Ivory .png",
+                "count": 271
+            },
+            {
+                "image": "Calm Face Umber.png",
+                "count": 271
+            },
+            {
+                "image": "Closed Eye Ebony.png",
+                "count": 200
+            },
+            {
+                "image": "Closed Eyes Bronze.png",
+                "count": 200
+            },
+            {
+                "image": "Closed Eyes Umber.png",
+                "count": 262
+            },
+            {
+                "image": "Pirate Face.png",
+                "count": 300
+            },
+            {
+                "image": "Smiling Face Bronze.png",
+                "count": 225
+            },
+            {
+                "image": "Smiling Face Ebony.png",
+                "count": 200
+            },
+            {
+                "image": "blank.png",
+                "count": 565
+            }
+        ]
+    },
+    {
+        "dir": "./images/Male_Hair",
+        "name": "Male_Hair",
+        "id": 3,
+        "images": [
+            {
+                "image": "Afro Black.png",
+                "count": 132
+            },
+            {
+                "image": "Afro Blonde.png",
+                "count": 132
+            },
+            {
+                "image": "Afro Blue.png",
+                "count": 56
+            },
+            {
+                "image": "Afro Brown.png",
+                "count": 132
+            },
+            {
+                "image": "Afro Ginger.png",
+                "count": 132
+            },
+            {
+                "image": "Afro Pink.png",
+                "count": 56
+            },
+            {
+                "image": "Afro Silver.png",
+                "count": 37
+            },
+            {
+                "image": "Buzzcut Black.png",
+                "count": 132
+            },
+            {
+                "image": "Buzzcut Blonde.png",
+                "count": 132
+            },
+            {
+                "image": "Buzzcut Blue.png",
+                "count": 56
+            },
+            {
+                "image": "Buzzcut Brown.png",
+                "count": 132
+            },
+            {
+                "image": "Buzzcut Ginger.png",
+                "count": 132
+            },
+            {
+                "image": "Buzzcut Pink.png",
+                "count": 56
+            },
+            {
+                "image": "Buzzcut Silver.png",
+                "count": 37
+            },
+            {
+                "image": "Dreadlocks Black.png",
+                "count": 132
+            },
+            {
+                "image": "Dreadlocks Blonde.png",
+                "count": 132
+            },
+            {
+                "image": "Dreadlocks Blue.png",
+                "count": 56
+            },
+            {
+                "image": "Dreadlocks Brown.png",
+                "count": 132
+            },
+            {
+                "image": "Dreadlocks Ginger.png",
+                "count": 132
+            },
+            {
+                "image": "Dreadlocks Pink.png",
+                "count": 56
+            },
+            {
+                "image": "Dreadlocks Silver.png",
+                "count": 37
+            },
+            {
+                "image": "Emo Fringe Black.png",
+                "count": 132
+            },
+            {
+                "image": "Emo Fringe Blonde.png",
+                "count": 132
+            },
+            {
+                "image": "Emo Fringe Blue.png",
+                "count": 56
+            },
+            {
+                "image": "Emo Fringe Brown.png",
+                "count": 132
+            },
+            {
+                "image": "Emo Fringe Ginger.png",
+                "count": 132
+            },
+            {
+                "image": "Emo Fringe Pink.png",
+                "count": 56
+            },
+            {
+                "image": "Emo Fringe Silver.png",
+                "count": 37
+            },
+            {
+                "image": "Quiff Black.png",
+                "count": 132
+            },
+            {
+                "image": "Quiff Blonde.png",
+                "count": 132
+            },
+            {
+                "image": "Quiff Blue.png",
+                "count": 50
+            },
+            {
+                "image": "Quiff Brown.png",
+                "count": 132
+            },
+            {
+                "image": "Quiff Ginger.png",
+                "count": 132
+            },
+            {
+                "image": "Quiff Pink.png",
+                "count": 50
+            },
+            {
+                "image": "Quiff Silver.png",
+                "count": 39
+            },
+            {
+                "image": "blank.png",
+                "count": 375
+            }
+        ]
+    },
+    {
+        "dir": "./images/Male_Prosthetics",
+        "name": "Male_Prosthetics",
+        "id": 5,
+        "images": [
+            {
+                "image": "Athletic Leg Left.png",
+                "count": 375
+            },
+            {
+                "image": "Athletic Leg Right.png",
+                "count": 375
+            },
+            {
+                "image": "Cyber Integrated Arm .png",
+                "count": 375
+            },
+            {
+                "image": "Digital Arm.png",
+                "count": 562
+            },
+            {
+                "image": "iLeg Left.png",
+                "count": 187
+            },
+            {
+                "image": "iLeg Right.png",
+                "count": 187
+            },
+            {
+                "image": "Metal Bone Claw Left.png",
+                "count": 187
+            },
+            {
+                "image": "Metal Bone Claw Right.png",
+                "count": 187
+            },
+            {
+                "image": "Pirate Hook.png",
+                "count": 281
+            },
+            {
+                "image": "Pirate Peg Leg.png",
+                "count": 93
+            },
+            {
+                "image": "Sky Blue Cyber Leg Left.png",
+                "count": 328
+            },
+            {
+                "image": "Sky Blue Cyber Leg Right.png",
+                "count": 328
+            },
+            {
+                "image": "Solid Gold Arm .png",
+                "count": 285
+            }
+        ]
+    },
+    {
+        "dir": "./images/Shoes",
+        "name": "Shoes",
+        "id": 6,
+        "images": [
+            {
+                "image": "Blue Jordan 1  L.png",
+                "count": 140
+            },
+            {
+                "image": "Blue Jordan 1 R  .png",
+                "count": 170
+            },
+            {
+                "image": "Blue Tn’s L.png",
+                "count": 91
+            },
+            {
+                "image": "Blue Tn’s R.png",
+                "count": 92
+            },
+            {
+                "image": "Chuck’s L.png",
+                "count": 170
+            },
+            {
+                "image": "Chuck’s R.png",
+                "count": 170
+            },
+            {
+                "image": "Green Jordan 1  L.png",
+                "count": 170
+            },
+            {
+                "image": "Green Jordan 1  R.png",
+                "count": 170
+            },
+            {
+                "image": "Grey Jordan 1 L.png",
+                "count": 170
+            },
+            {
+                "image": "Grey Jordan 1 R.png",
+                "count": 170
+            },
+            {
+                "image": "Jordan 4 L.png",
+                "count": 100
+            },
+            {
+                "image": "Jordan 4 R.png",
+                "count": 100
+            },
+            {
+                "image": "Red Jordan 1 L.png",
+                "count": 160
+            },
+            {
+                "image": "Red Jordan 1 R.png",
+                "count": 160
+            },
+            {
+                "image": "Slides L.png",
+                "count": 140
+            },
+            {
+                "image": "Slides R.png",
+                "count": 140
+            },
+            {
+                "image": "Tim’s L.png",
+                "count": 110
+            },
+            {
+                "image": "Tim’s R.png",
+                "count": 110
+            },
+            {
+                "image": "blank.png",
+                "count": 1217
+            }
+        ]
+    },
+    {
+        "dir": "./images/Tops",
+        "name": "Tops",
+        "id": 8,
+        "images": [
+            {
+                "image": "Jumper Black.png",
+                "count": 300
+            },
+            {
+                "image": "Jumper Green.png",
+                "count": 300
+            },
+            {
+                "image": "Baseball T Black.png",
+                "count": 187
+            },
+            {
+                "image": "Baseball T Blue.png",
+                "count": 187
+            },
+            {
+                "image": "Baseball T Red.png",
+                "count": 187
+            },
+            {
+                "image": "Black I Luv Earth T.png",
+                "count": 187
+            },
+            {
+                "image": "Black T.png",
+                "count": 300
+            },
+            {
+                "image": "Blue Vest.png",
+                "count": 187
+            },
+            {
+                "image": "Green T.png",
+                "count": 300
+            },
+            {
+                "image": "Logo T.png",
+                "count": 187
+            },
+            {
+                "image": "PA Jersey Blue.png",
+                "count": 112
+            },
+            {
+                "image": "PA Jersey Green.png",
+                "count": 112
+            },
+            {
+                "image": "PA Jersey Red.png",
+                "count": 112
+            },
+            {
+                "image": "Pirate Vest.png",
+                "count": 112
+            },
+            {
+                "image": "Red T.png",
+                "count": 300
+            },
+            {
+                "image": "Smiley T.png",
+                "count": 187
+            },
+            {
+                "image": "White I Luv Earth T.png",
+                "count": 187
+            },
+            {
+                "image": "White T.png",
+                "count": 306
+            }
+        ]
+    }
+]

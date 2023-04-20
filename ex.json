@@ -1,0 +1,1352 @@
+{
+  "must-not": [
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Beige Male B Arms.png",
+          "Beige Male B Legs.png",
+          "Beige Male L Arm L Leg.png",
+          "Beige Male L Arm R Leg.png",
+          "Beige Male L Arm.png",
+          "Beige Male L Leg.png",
+          "Beige Male R Arm L Leg.png",
+          "Beige Male R Arm R Leg.png",
+          "Beige Male R Arm.png",
+          "Beige Male R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Faces",
+        "images": [
+          "Anime Face Ivory.png",
+          "Calm Face Bronze.png",
+          "Calm Face Ebony .png",
+          "Calm Face Ivory .png",
+          "Calm Face Umber.png",
+          "Closed Eye Ebony.png",
+          "Closed Eyes Bronze.png",
+          "Closed Eyes Umber.png",
+          "Smiling Face Bronze.png",
+          "Smiling Face Ebony.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Bronze Male B Arms.png",
+          "Bronze Male B Legs.png",
+          "Bronze Male L Arm L Leg.png",
+          "Bronze Male L Arm R Leg.png",
+          "Bronze Male L Arm.png",
+          "Bronze Male L Leg.png",
+          "Bronze Male R Arm L Leg.png",
+          "Bronze Male R Arm R Leg.png",
+          "Bronze Male R Arm.png",
+          "Bronze Male R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Faces",
+        "images": [
+          "Anime Face Beige.png",
+          "Anime Face Ivory.png",
+          "Calm Face Beige.png",
+          "Calm Face Ebony .png",
+          "Calm Face Ivory .png",
+          "Calm Face Umber.png",
+          "Closed Eye Ebony.png",
+          "Closed Eyes Umber.png",
+          "Pirate Face.png",
+          "Smiling Face Ebony.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Ebony Male B Arms.png",
+          "Ebony Male B Legs.png",
+          "Ebony Male L Arm L Leg.png",
+          "Ebony Male L Arm R Leg.png",
+          "Ebony Male L Arm.png",
+          "Ebony Male L Leg.png",
+          "Ebony Male R Arm L Leg.png",
+          "Ebony Male R Arm R Leg.png",
+          "Ebony Male R Arm.png",
+          "Ebony Male R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Faces",
+        "images": [
+          "Anime Face Beige.png",
+          "Anime Face Ivory.png",
+          "Calm Face Beige.png",
+          "Calm Face Bronze.png",
+          "Calm Face Ivory .png",
+          "Calm Face Umber.png",
+          "Closed Eyes Bronze.png",
+          "Closed Eyes Umber.png",
+          "Pirate Face.png",
+          "Smiling Face Bronze.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Ivory Male B Arms.png",
+          "Ivory Male B Legs.png",
+          "Ivory Male L Arm L Leg.png",
+          "Ivory Male L Arm R Arm.png",
+          "Ivory Male L Arm.png",
+          "Ivory Male L Leg.png",
+          "Ivory Male R Arm L Leg.png",
+          "Ivory Male R Arm R Legs .png",
+          "Ivory Male R Arm.png",
+          "Ivory Male R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Faces",
+        "images": [
+          "Anime Face Beige.png",
+          "Calm Face Beige.png",
+          "Calm Face Bronze.png",
+          "Calm Face Ebony .png",
+          "Calm Face Umber.png",
+          "Closed Eye Ebony.png",
+          "Closed Eyes Bronze.png",
+          "Closed Eyes Umber.png",
+          "Smiling Face Bronze.png",
+          "Smiling Face Ebony.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Umber Male B Arms.png",
+          "Umber Male B Leg.png",
+          "Umber Male L Arm L Leg.png",
+          "Umber Male L Arm R Leg.png",
+          "Umber Male L Arm.png",
+          "Umber Male L Leg.png",
+          "Umber Male R Arm L Leg.png",
+          "Umber Male R Arm.png",
+          "Umber Male R Arms R Leg.png",
+          "Umber Male R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Faces",
+        "images": [
+          "Anime Face Beige.png",
+          "Anime Face Ivory.png",
+          "Calm Face Beige.png",
+          "Calm Face Bronze.png",
+          "Calm Face Ebony .png",
+          "Calm Face Ivory .png",
+          "Closed Eye Ebony.png",
+          "Closed Eyes Bronze.png",
+          "Smiling Face Bronze.png",
+          "Smiling Face Ebony.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Hair",
+        "images": [
+          "Buzzcut Black.png",
+          "Buzzcut Blonde.png",
+          "Buzzcut Blue.png",
+          "Buzzcut Brown.png",
+          "Buzzcut Ginger.png",
+          "Buzzcut Pink.png",
+          "Buzzcut Silver.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Head",
+        "images": [
+          "Cyclops.png",
+          "Halo.png",
+          "Peace Chain.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Hair",
+        "images": [
+          "Afro Black.png",
+          "Afro Blonde.png",
+          "Afro Blue.png",
+          "Afro Brown.png",
+          "Afro Ginger.png",
+          "Afro Pink.png",
+          "Afro Silver.png",
+          "Dreadlocks Black.png",
+          "Dreadlocks Blonde.png",
+          "Dreadlocks Blue.png",
+          "Dreadlocks Brown.png",
+          "Dreadlocks Ginger.png",
+          "Dreadlocks Pink.png",
+          "Dreadlocks Silver.png",
+          "Emo Fringe Black.png",
+          "Emo Fringe Blonde.png",
+          "Emo Fringe Blue.png",
+          "Emo Fringe Brown.png",
+          "Emo Fringe Ginger.png",
+          "Emo Fringe Pink.png",
+          "Emo Fringe Silver.png",
+          "Quiff Black.png",
+          "Quiff Blonde.png",
+          "Quiff Blue.png",
+          "Quiff Brown.png",
+          "Quiff Ginger.png",
+          "Quiff Pink.png",
+          "Quiff Silver.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Head",
+        "images": [
+          "Balaclava .png",
+          "Bandana .png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Tops",
+        "images": [
+          "Jumper Black.png",
+          "Jumper Green.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Cyber Integrated Arm .png",
+          "Digital Arm.png",
+          "Metal Bone Claw Left.png",
+          "Metal Bone Claw Right.png",
+          "Pirate Hook.png",
+          "Solid Gold Arm .png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Athletic Leg Right.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Jeans Blue Left Leg.png",
+          "Jeans Grey Left Leg.png",
+          "Jeans Tan Left Leg.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Athletic Leg Right.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Shoes",
+        "images": [
+          "Blue Jordan 1  L.png",
+          "Blue Jordan 1 R  .png",
+          "Blue Tn’s L.png",
+          "Blue Tn’s R.png",
+          "Chuck’s L.png",
+          "Chuck’s R.png",
+          "Green Jordan 1  L.png",
+          "Green Jordan 1  R.png",
+          "Grey Jordan 1 L.png",
+          "Grey Jordan 1 R.png",
+          "Jordan 4 L.png",
+          "Jordan 4 R.png",
+          "Red Jordan 1 L.png",
+          "Red Jordan 1 R.png",
+          "Slides L.png",
+          "Slides R.png",
+          "Tim’s L.png",
+          "Tim’s R.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Athletic Leg Left.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Jeans Blue Right Leg.png",
+          "Jeans Grey Right Leg.png",
+          "Jeans Tan Right Leg.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Athletic Leg Left.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Shoes",
+        "images": [
+          "Blue Jordan 1  L.png",
+          "Blue Jordan 1 R  .png",
+          "Blue Tn’s L.png",
+          "Blue Tn’s R.png",
+          "Chuck’s L.png",
+          "Chuck’s R.png",
+          "Green Jordan 1  L.png",
+          "Green Jordan 1  R.png",
+          "Grey Jordan 1 L.png",
+          "Grey Jordan 1 R.png",
+          "Jordan 4 L.png",
+          "Jordan 4 R.png",
+          "Red Jordan 1 L.png",
+          "Red Jordan 1 R.png",
+          "Slides L.png",
+          "Slides R.png",
+          "Tim’s L.png",
+          "Tim’s R.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "iLeg Right.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Jeans Blue Left Leg.png",
+          "Jeans Grey Left Leg.png",
+          "Jeans Tan Left Leg.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "iLeg Right.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Shoes",
+        "images": [
+          "Blue Jordan 1  L.png",
+          "Blue Jordan 1 R  .png",
+          "Blue Tn’s L.png",
+          "Blue Tn’s R.png",
+          "Chuck’s L.png",
+          "Chuck’s R.png",
+          "Green Jordan 1  L.png",
+          "Green Jordan 1  R.png",
+          "Grey Jordan 1 L.png",
+          "Grey Jordan 1 R.png",
+          "Jordan 4 L.png",
+          "Jordan 4 R.png",
+          "Red Jordan 1 L.png",
+          "Red Jordan 1 R.png",
+          "Slides L.png",
+          "Slides R.png",
+          "Tim’s L.png",
+          "Tim’s R.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "iLeg Left.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Jeans Blue Right Leg.png",
+          "Jeans Grey Right Leg.png",
+          "Jeans Tan Right Leg.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "iLeg Left.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Shoes",
+        "images": [
+          "Blue Jordan 1  L.png",
+          "Blue Jordan 1 R  .png",
+          "Blue Tn’s L.png",
+          "Blue Tn’s R.png",
+          "Chuck’s L.png",
+          "Chuck’s R.png",
+          "Green Jordan 1  L.png",
+          "Green Jordan 1  R.png",
+          "Grey Jordan 1 L.png",
+          "Grey Jordan 1 R.png",
+          "Jordan 4 L.png",
+          "Jordan 4 R.png",
+          "Red Jordan 1 L.png",
+          "Red Jordan 1 R.png",
+          "Slides L.png",
+          "Slides R.png",
+          "Tim’s L.png",
+          "Tim’s R.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Pirate Peg Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Shoes",
+        "images": [
+          "Blue Jordan 1  L.png",
+          "Blue Jordan 1 R  .png",
+          "Blue Tn’s L.png",
+          "Blue Tn’s R.png",
+          "Chuck’s L.png",
+          "Chuck’s R.png",
+          "Green Jordan 1  L.png",
+          "Green Jordan 1  R.png",
+          "Grey Jordan 1 L.png",
+          "Grey Jordan 1 R.png",
+          "Jordan 4 L.png",
+          "Jordan 4 R.png",
+          "Red Jordan 1 L.png",
+          "Red Jordan 1 R.png",
+          "Slides L.png",
+          "Slides R.png",
+          "Tim’s L.png",
+          "Tim’s R.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Sky Blue Cyber Leg Left.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Jeans Blue Right Leg.png",
+          "Jeans Grey Right Leg.png",
+          "Jeans Tan Right Leg.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Sky Blue Cyber Leg Right.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Jeans Blue Left Leg.png",
+          "Jeans Grey Left Leg.png",
+          "Jeans Tan Left Leg.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Head",
+        "images": [
+          "Balaclava .png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Faces",
+        "images": [
+          "Anime Face Beige.png",
+          "Anime Face Ivory.png",
+          "Calm Face Beige.png",
+          "Calm Face Bronze.png",
+          "Calm Face Ebony .png",
+          "Calm Face Ivory .png",
+          "Calm Face Umber.png",
+          "Closed Eye Ebony.png",
+          "Closed Eyes Bronze.png",
+          "Closed Eyes Umber.png",
+          "Pirate Face.png",
+          "Smiling Face Bronze.png",
+          "Smiling Face Ebony.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Head",
+        "images": [
+          "Balaclava .png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Hair",
+        "images": [
+          "Afro Black.png",
+          "Afro Blonde.png",
+          "Afro Blue.png",
+          "Afro Brown.png",
+          "Afro Ginger.png",
+          "Afro Pink.png",
+          "Afro Silver.png",
+          "Dreadlocks Black.png",
+          "Dreadlocks Blonde.png",
+          "Dreadlocks Blue.png",
+          "Dreadlocks Brown.png",
+          "Dreadlocks Ginger.png",
+          "Dreadlocks Pink.png",
+          "Dreadlocks Silver.png",
+          "Emo Fringe Black.png",
+          "Emo Fringe Blonde.png",
+          "Emo Fringe Blue.png",
+          "Emo Fringe Brown.png",
+          "Emo Fringe Ginger.png",
+          "Emo Fringe Pink.png",
+          "Emo Fringe Silver.png",
+          "Quiff Black.png",
+          "Quiff Blonde.png",
+          "Quiff Blue.png",
+          "Quiff Brown.png",
+          "Quiff Ginger.png",
+          "Quiff Pink.png",
+          "Quiff Silver.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Head",
+        "images": [
+          "Bandana .png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Hair",
+        "images": [
+          "Afro Black.png",
+          "Afro Blonde.png",
+          "Afro Blue.png",
+          "Afro Brown.png",
+          "Afro Ginger.png",
+          "Afro Pink.png",
+          "Afro Silver.png",
+          "Dreadlocks Black.png",
+          "Dreadlocks Blonde.png",
+          "Dreadlocks Blue.png",
+          "Dreadlocks Brown.png",
+          "Dreadlocks Ginger.png",
+          "Dreadlocks Pink.png",
+          "Dreadlocks Silver.png",
+          "Emo Fringe Black.png",
+          "Emo Fringe Blonde.png",
+          "Emo Fringe Blue.png",
+          "Emo Fringe Brown.png",
+          "Emo Fringe Ginger.png",
+          "Emo Fringe Pink.png",
+          "Emo Fringe Silver.png",
+          "Quiff Black.png",
+          "Quiff Blonde.png",
+          "Quiff Blue.png",
+          "Quiff Brown.png",
+          "Quiff Ginger.png",
+          "Quiff Pink.png",
+          "Quiff Silver.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Head",
+        "images": [
+          "Halo.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Hair",
+        "images": [
+          "Afro Black.png",
+          "Afro Blonde.png",
+          "Afro Blue.png",
+          "Afro Brown.png",
+          "Afro Ginger.png",
+          "Afro Pink.png",
+          "Afro Silver.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Head",
+        "images": [
+          "Hard Hat .png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Hair",
+        "images": [
+          "Afro Black.png",
+          "Afro Blonde.png",
+          "Afro Blue.png",
+          "Afro Brown.png",
+          "Afro Ginger.png",
+          "Afro Pink.png",
+          "Afro Silver.png",
+          "Dreadlocks Black.png",
+          "Dreadlocks Blonde.png",
+          "Dreadlocks Blue.png",
+          "Dreadlocks Brown.png",
+          "Dreadlocks Ginger.png",
+          "Dreadlocks Pink.png",
+          "Dreadlocks Silver.png",
+          "Emo Fringe Black.png",
+          "Emo Fringe Blonde.png",
+          "Emo Fringe Blue.png",
+          "Emo Fringe Brown.png",
+          "Emo Fringe Ginger.png",
+          "Emo Fringe Pink.png",
+          "Emo Fringe Silver.png",
+          "Quiff Black.png",
+          "Quiff Blonde.png",
+          "Quiff Blue.png",
+          "Quiff Brown.png",
+          "Quiff Ginger.png",
+          "Quiff Pink.png",
+          "Quiff Silver.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Bottoms",
+        "images": [
+          "Jeans Blue Left Leg.png",
+          "Jeans Blue Right Leg.png",
+          "Jeans Grey Left Leg.png",
+          "Jeans Grey Right Leg.png",
+          "Jeans Tan Left Leg.png",
+          "Jeans Tan Right Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Shoes",
+        "images": [
+          "Jordan 4 L.png",
+          "Jordan 4 R.png",
+          "Tim’s L.png",
+          "Tim’s R.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy B Arms.png",
+          "Beige Male B Arms.png",
+          "Bronze Male B Arms.png",
+          "Ebony Male B Arms.png",
+          "Ivory Male B Arms.png",
+          "Umber Male B Arms.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Tops",
+        "images": [
+          "Jumper Black.png",
+          "Jumper Green.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy B Legs.png",
+          "Beige Male B Legs.png",
+          "Bronze Male B Legs.png",
+          "Ebony Male B Legs.png",
+          "Ivory Male B Legs.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Cargos Black.png",
+          "Cargos Green.png",
+          "Cargos Purple.png",
+          "Chinos Black.png",
+          "Chinos Blue.png",
+          "Chinos Brown.png",
+          "Chinos Purple.png",
+          "Jeans Blue Left Leg.png",
+          "Jeans Blue Right Leg.png",
+          "Jeans Grey Left Leg.png",
+          "Jeans Grey Right Leg.png",
+          "Jeans Tan Left Leg.png",
+          "Jeans Tan Right Leg.png",
+          "Sweatpants Grey.png",
+          "Sweatpants Purple.png",
+          "Sweatpants Yellow.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy L Arm.png",
+          "Beige Male L Arm.png",
+          "Bronze Male L Arm.png",
+          "Ebony Male L Arm.png",
+          "Ivory Male L Arm.png",
+          "Umber Male L Arm.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Tops",
+        "images": [
+          "Jumper Black.png",
+          "Jumper Green.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy L Arm L Leg.png",
+          "Beige Male L Arm L Leg.png",
+          "Bronze Male L Arm L Leg.png",
+          "Ebony Male L Arm L Leg.png",
+          "Ivory Male L Arm L Leg.png",
+          "Umber Male L Arm L Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Tops",
+        "images": [
+          "Jumper Black.png",
+          "Jumper Green.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy L Arm L Leg.png",
+          "Beige Male L Arm L Leg.png",
+          "Bronze Male L Arm L Leg.png",
+          "Ebony Male L Arm L Leg.png",
+          "Ivory Male L Arm L Leg.png",
+          "Umber Male L Arm L Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Cargos Black.png",
+          "Cargos Green.png",
+          "Cargos Purple.png",
+          "Chinos Black.png",
+          "Chinos Blue.png",
+          "Chinos Brown.png",
+          "Chinos Purple.png",
+          "Jeans Blue Right Leg.png",
+          "Jeans Grey Right Leg.png",
+          "Jeans Tan Right Leg.png",
+          "Sweatpants Grey.png",
+          "Sweatpants Purple.png",
+          "Sweatpants Yellow.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy L Leg.png",
+          "Beige Male L Leg.png",
+          "Bronze Male L Leg.png",
+          "Ebony Male L Leg.png",
+          "Ivory Male L Leg.png",
+          "Umber Male L Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Cargos Black.png",
+          "Cargos Green.png",
+          "Cargos Purple.png",
+          "Chinos Black.png",
+          "Chinos Blue.png",
+          "Chinos Brown.png",
+          "Chinos Purple.png",
+          "Jeans Blue Right Leg.png",
+          "Jeans Grey Right Leg.png",
+          "Jeans Tan Right Leg.png",
+          "Sweatpants Grey.png",
+          "Sweatpants Purple.png",
+          "Sweatpants Yellow.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy R.png",
+          "Beige Male R Arm.png",
+          "Bronze Male R Arm.png",
+          "Ebony Male R Arm.png",
+          "Ivory Male R Arm.png",
+          "Umber Male R Arm.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Tops",
+        "images": [
+          "Jumper Black.png",
+          "Jumper Green.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy R Arm L Leg.png",
+          "Beige Male R Arm L Leg.png",
+          "Bronze Male R Arm L Leg.png",
+          "Ebony Male R Arm L Leg.png",
+          "Ivory Male R Arm L Leg.png",
+          "Umber Male R Arm L Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Cargos Black.png",
+          "Cargos Green.png",
+          "Cargos Purple.png",
+          "Chinos Black.png",
+          "Chinos Blue.png",
+          "Chinos Brown.png",
+          "Chinos Purple.png",
+          "Jeans Blue Right Leg.png",
+          "Jeans Grey Right Leg.png",
+          "Jeans Tan Right Leg.png",
+          "Sweatpants Grey.png",
+          "Sweatpants Purple.png",
+          "Sweatpants Yellow.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy R Arm L Leg.png",
+          "Beige Male R Arm L Leg.png",
+          "Bronze Male R Arm L Leg.png",
+          "Ebony Male R Arm L Leg.png",
+          "Ivory Male R Arm L Leg.png",
+          "Umber Male R Arm L Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Tops",
+        "images": [
+          "Jumper Black.png",
+          "Jumper Green.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy R Arm R Leg.png",
+          "Beige Male R Arm R Leg.png",
+          "Bronze Male R Arm R Leg.png",
+          "Ebony Male R Arm R Leg.png",
+          "Ivory Male R Arm R Legs .png",
+          "Umber Male R Arms R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Tops",
+        "images": [
+          "Jumper Black.png",
+          "Jumper Green.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy R Arm R Leg.png",
+          "Beige Male R Arm R Leg.png",
+          "Bronze Male R Arm R Leg.png",
+          "Ebony Male R Arm R Leg.png",
+          "Ivory Male R Arm R Legs .png",
+          "Umber Male R Arms R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Cargos Black.png",
+          "Cargos Green.png",
+          "Cargos Purple.png",
+          "Chinos Black.png",
+          "Chinos Blue.png",
+          "Chinos Brown.png",
+          "Chinos Purple.png",
+          "Jeans Blue Left Leg.png",
+          "Jeans Grey Left Leg.png",
+          "Jeans Tan Left Leg.png",
+          "Sweatpants Grey.png",
+          "Sweatpants Purple.png",
+          "Sweatpants Yellow.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy R Leg.png",
+          "Beige Male R Leg.png",
+          "Bronze Male R Leg.png",
+          "Ebony Male R Leg.png",
+          "Ivory Male R Leg.png",
+          "Umber Male R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Bottoms",
+        "images": [
+          "Cargos Black.png",
+          "Cargos Green.png",
+          "Cargos Purple.png",
+          "Chinos Black.png",
+          "Chinos Blue.png",
+          "Chinos Brown.png",
+          "Chinos Purple.png",
+          "Jeans Blue Left Leg.png",
+          "Jeans Grey Left Leg.png",
+          "Jeans Tan Left Leg.png",
+          "Sweatpants Grey.png",
+          "Sweatpants Purple.png",
+          "Sweatpants Yellow.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy B Arms.png",
+          "Alien Boy B Legs.png",
+          "Alien Boy L Arm L Leg.png",
+          "Alien Boy L Arm R R Leg.png",
+          "Alien Boy L Arm.png",
+          "Alien Boy L Leg.png",
+          "Alien Boy R Arm L Leg.png",
+          "Alien Boy R Arm R Leg.png",
+          "Alien Boy R Leg.png",
+          "Alien Boy R.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Faces",
+        "images": [
+          "Anime Face Beige.png",
+          "Anime Face Ivory.png",
+          "Calm Face Beige.png",
+          "Calm Face Bronze.png",
+          "Calm Face Ebony .png",
+          "Calm Face Ivory .png",
+          "Calm Face Umber.png",
+          "Closed Eye Ebony.png",
+          "Closed Eyes Bronze.png",
+          "Closed Eyes Umber.png",
+          "Pirate Face.png",
+          "Smiling Face Bronze.png",
+          "Smiling Face Ebony.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy B Arms.png",
+          "Alien Boy B Legs.png",
+          "Alien Boy L Arm L Leg.png",
+          "Alien Boy L Arm R R Leg.png",
+          "Alien Boy L Arm.png",
+          "Alien Boy L Leg.png",
+          "Alien Boy R Arm L Leg.png",
+          "Alien Boy R Arm R Leg.png",
+          "Alien Boy R Leg.png",
+          "Alien Boy R.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Hair",
+        "images": [
+          "Afro Black.png",
+          "Afro Blonde.png",
+          "Afro Blue.png",
+          "Afro Brown.png",
+          "Afro Ginger.png",
+          "Afro Pink.png",
+          "Afro Silver.png",
+          "Buzzcut Black.png",
+          "Buzzcut Blonde.png",
+          "Buzzcut Blue.png",
+          "Buzzcut Brown.png",
+          "Buzzcut Ginger.png",
+          "Buzzcut Pink.png",
+          "Buzzcut Silver.png",
+          "Dreadlocks Black.png",
+          "Dreadlocks Blonde.png",
+          "Dreadlocks Blue.png",
+          "Dreadlocks Brown.png",
+          "Dreadlocks Ginger.png",
+          "Dreadlocks Pink.png",
+          "Dreadlocks Silver.png",
+          "Emo Fringe Black.png",
+          "Emo Fringe Blonde.png",
+          "Emo Fringe Blue.png",
+          "Emo Fringe Brown.png",
+          "Emo Fringe Ginger.png",
+          "Emo Fringe Pink.png",
+          "Emo Fringe Silver.png",
+          "Quiff Black.png",
+          "Quiff Blonde.png",
+          "Quiff Blue.png",
+          "Quiff Brown.png",
+          "Quiff Ginger.png",
+          "Quiff Pink.png",
+          "Quiff Silver.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Alien Boy B Arms.png",
+          "Alien Boy B Legs.png",
+          "Alien Boy L Arm L Leg.png",
+          "Alien Boy L Arm R R Leg.png",
+          "Alien Boy L Arm.png",
+          "Alien Boy L Leg.png",
+          "Alien Boy R Arm L Leg.png",
+          "Alien Boy R Arm R Leg.png",
+          "Alien Boy R Leg.png",
+          "Alien Boy R.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Head",
+        "images": [
+          "Balaclava .png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Beige Male B Arms.png",
+          "Beige Male B Legs.png",
+          "Beige Male L Arm L Leg.png",
+          "Beige Male L Arm R Leg.png",
+          "Beige Male L Arm.png",
+          "Beige Male L Leg.png",
+          "Beige Male R Arm L Leg.png",
+          "Beige Male R Arm R Leg.png",
+          "Beige Male R Arm.png",
+          "Beige Male R Leg.png",
+          "Bronze Male B Arms.png",
+          "Bronze Male B Legs.png",
+          "Bronze Male L Arm L Leg.png",
+          "Bronze Male L Arm R Leg.png",
+          "Bronze Male L Arm.png",
+          "Bronze Male L Leg.png",
+          "Bronze Male R Arm L Leg.png",
+          "Bronze Male R Arm R Leg.png",
+          "Bronze Male R Arm.png",
+          "Bronze Male R Leg.png",
+          "Ebony Male B Arms.png",
+          "Ebony Male B Legs.png",
+          "Ebony Male L Arm L Leg.png",
+          "Ebony Male L Arm R Leg.png",
+          "Ebony Male L Arm.png",
+          "Ebony Male L Leg.png",
+          "Ebony Male R Arm L Leg.png",
+          "Ebony Male R Arm R Leg.png",
+          "Ebony Male R Arm.png",
+          "Ebony Male R Leg.png",
+          "Ivory Male B Arms.png",
+          "Ivory Male B Legs.png",
+          "Ivory Male L Arm L Leg.png",
+          "Ivory Male L Arm R Arm.png",
+          "Ivory Male L Arm.png",
+          "Ivory Male L Leg.png",
+          "Ivory Male R Arm L Leg.png",
+          "Ivory Male R Arm R Legs .png",
+          "Ivory Male R Arm.png",
+          "Ivory Male R Leg.png",
+          "Umber Male B Arms.png",
+          "Umber Male B Leg.png",
+          "Umber Male L Arm L Leg.png",
+          "Umber Male L Arm R Leg.png",
+          "Umber Male L Arm.png",
+          "Umber Male L Leg.png",
+          "Umber Male R Arm L Leg.png",
+          "Umber Male R Arm.png",
+          "Umber Male R Arms R Leg.png",
+          "Umber Male R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Hair",
+        "images": [
+          "blank.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Sky Blue Cyber Leg Left.png",
+          "Sky Blue Cyber Leg Right.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Shoes",
+        "images": [
+          "blank.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Beige Male B Arms.png",
+          "Bronze Male L Arm.png",
+          "Ebony Male L Leg.png",
+          "Ivory Male L Arm R Arm.png",
+          "Umber Male L Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Faces",
+        "images": [
+          "Anime Face Beige.png",
+          "Anime Face Ivory.png",
+          "Calm Face Beige.png",
+          "Calm Face Bronze.png",
+          "Calm Face Ebony .png",
+          "Calm Face Ivory .png",
+          "Calm Face Umber.png",
+          "Closed Eye Ebony.png",
+          "Closed Eyes Bronze.png",
+          "Closed Eyes Umber.png",
+          "Pirate Face.png",
+          "Smiling Face Bronze.png",
+          "Smiling Face Ebony.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Beige Male B Legs.png",
+          "Beige Male L Arm L Leg.png",
+          "Beige Male L Arm R Leg.png",
+          "Beige Male L Arm.png",
+          "Beige Male L Leg.png",
+          "Beige Male R Arm L Leg.png",
+          "Beige Male R Arm R Leg.png",
+          "Beige Male R Arm.png",
+          "Beige Male R Leg.png",
+          "Bronze Male B Arms.png",
+          "Bronze Male B Legs.png",
+          "Bronze Male L Arm L Leg.png",
+          "Bronze Male L Arm R Leg.png",
+          "Bronze Male L Leg.png",
+          "Bronze Male R Arm L Leg.png",
+          "Bronze Male R Arm R Leg.png",
+          "Bronze Male R Arm.png",
+          "Bronze Male R Leg.png",
+          "Ebony Male B Arms.png",
+          "Ebony Male B Legs.png",
+          "Ebony Male L Arm L Leg.png",
+          "Ebony Male L Arm R Leg.png",
+          "Ebony Male L Arm.png",
+          "Ebony Male R Arm L Leg.png",
+          "Ebony Male R Arm R Leg.png",
+          "Ebony Male R Arm.png",
+          "Ebony Male R Leg.png",
+          "Ivory Male B Arms.png",
+          "Ivory Male B Legs.png",
+          "Ivory Male L Arm L Leg.png",
+          "Ivory Male L Arm.png",
+          "Ivory Male L Leg.png",
+          "Ivory Male R Arm L Leg.png",
+          "Ivory Male R Arm R Legs .png",
+          "Ivory Male R Arm.png",
+          "Ivory Male R Leg.png",
+          "Umber Male B Arms.png",
+          "Umber Male B Leg.png",
+          "Umber Male L Arm L Leg.png",
+          "Umber Male L Arm R Leg.png",
+          "Umber Male L Arm.png",
+          "Umber Male R Arm L Leg.png",
+          "Umber Male R Arm.png",
+          "Umber Male R Arms R Leg.png",
+          "Umber Male R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Male_Faces",
+        "images": [
+          "blank.png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Bodies",
+        "images": [
+          "Beige Male B Legs.png",
+          "Beige Male L Arm L Leg.png",
+          "Beige Male L Arm R Leg.png",
+          "Beige Male L Arm.png",
+          "Beige Male L Leg.png",
+          "Beige Male R Arm L Leg.png",
+          "Beige Male R Arm R Leg.png",
+          "Beige Male R Arm.png",
+          "Beige Male R Leg.png",
+          "Bronze Male B Arms.png",
+          "Bronze Male B Legs.png",
+          "Bronze Male L Arm L Leg.png",
+          "Bronze Male L Arm R Leg.png",
+          "Bronze Male L Leg.png",
+          "Bronze Male R Arm L Leg.png",
+          "Bronze Male R Arm R Leg.png",
+          "Bronze Male R Arm.png",
+          "Bronze Male R Leg.png",
+          "Ebony Male B Arms.png",
+          "Ebony Male B Legs.png",
+          "Ebony Male L Arm L Leg.png",
+          "Ebony Male L Arm R Leg.png",
+          "Ebony Male L Arm.png",
+          "Ebony Male R Arm L Leg.png",
+          "Ebony Male R Arm R Leg.png",
+          "Ebony Male R Arm.png",
+          "Ebony Male R Leg.png",
+          "Ivory Male B Arms.png",
+          "Ivory Male B Legs.png",
+          "Ivory Male L Arm L Leg.png",
+          "Ivory Male L Arm.png",
+          "Ivory Male L Leg.png",
+          "Ivory Male R Arm L Leg.png",
+          "Ivory Male R Arm R Legs .png",
+          "Ivory Male R Arm.png",
+          "Ivory Male R Leg.png",
+          "Umber Male B Arms.png",
+          "Umber Male B Leg.png",
+          "Umber Male L Arm L Leg.png",
+          "Umber Male L Arm R Leg.png",
+          "Umber Male L Arm.png",
+          "Umber Male R Arm L Leg.png",
+          "Umber Male R Arm.png",
+          "Umber Male R Arms R Leg.png",
+          "Umber Male R Leg.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Head",
+        "images": [
+          "Balaclava .png"
+        ]
+      }
+    },
+    {
+      "layer-1": {
+        "name": "Male_Prosthetics",
+        "images": [
+          "Sky Blue Cyber Leg Left.png",
+          "Sky Blue Cyber Leg Right.png"
+        ]
+      },
+      "layer-2": {
+        "name": "Shoes",
+        "images": [
+          "blank.png"
+        ]
+      }
+    }
+  ]
+}
